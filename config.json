@@ -30,9 +30,10 @@
   "GENDER": "MALE",
   "nickNameBot": "baka-chan",
   "FACEBOOK": "https://www.facebook.com/share/172jGrYD4J/.",
-  "prefix": "!",
-  "prefix": ".",
-  "prefix": "/",
+  "prefix":[ 
+    "!",
+    "/"
+    ],
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
